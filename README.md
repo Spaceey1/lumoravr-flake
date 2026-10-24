@@ -1,3 +1,6 @@
+### WARNING
+The lumoravr dev's recently removed all releases from their github, because this uses the releases and doesn't build it from source this breaks this flake. If any new releases come out I will update this, but if this keeps happening maintaining this flake won't be feasable.
+
 ### Usage
 Add the flake as an input
 ```nix
